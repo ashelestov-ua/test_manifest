@@ -6,6 +6,8 @@
         review="" />
     <default remote="github"
         revision="master"/>
-    <project path="test_submodule_dir"
-        name="ashelestov-ua/test_submodule" />
+    <project path="image_updater"
+        name="ashelestov-ua/image_updater" />
+    <project path="another_test_repository"
+        name="ashelestov-ua/another_test_repository" />
 </manifest>
