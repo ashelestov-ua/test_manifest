@@ -2,12 +2,15 @@
 <manifest>
     <remote  name="github"
         fetch="https://github.com"
-        revision="master"
+        revision="main"
         review="" />
     <default remote="github"
-        revision="master"/>
+        revision="main"/>
+
     <project path="image_updater"
-        name="ashelestov-ua/image_updater" />
+        name="ashelestov-ua/repo1" />
     <project path="another_test_repository"
-        name="ashelestov-ua/another_test_repository" />
+        name="ashelestov-ua/repo2" />
+    <project path="another_test_repository"
+        name="ashelestov-ua/repo3" />
 </manifest>
