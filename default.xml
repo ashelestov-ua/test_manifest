@@ -7,10 +7,10 @@
     <default remote="github"
         revision="main"/>
 
-    <project path="image_updater"
+    <project path="repo1"
         name="ashelestov-ua/repo1" />
-    <project path="another_test_repository"
+    <project path="repo2"
         name="ashelestov-ua/repo2" />
-    <project path="another_test_repository"
+    <project path="repo3"
         name="ashelestov-ua/repo3" />
 </manifest>
